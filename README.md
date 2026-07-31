@@ -8,9 +8,10 @@ The objective of these projects was to understand antenna design principles and 
 
 ## Projects Included
 
-- 📌 Microstrip Patch Antenna
-- 📌 MIMO Antenna
-- 📌 Research Paper Based Antenna Designs
+- 📌 U-Slot-Rectangular-Patch
+- 📌 2x2-Patch-Antenna-Array
+- 📌 Slotted-Ring-Patch
+- 📌 Cylindrical-DRA
 
 ## Software Used
 
