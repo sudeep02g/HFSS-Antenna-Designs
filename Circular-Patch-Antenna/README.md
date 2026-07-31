@@ -3,8 +3,7 @@
 ## Overview
 This directory contains the Ansys HFSS simulation files for a fundamental Circular Microstrip Patch Antenna. This is a classic planar antenna design known for its low profile, ease of fabrication, and straightforward radiation characteristics.
 
-## Design Specifications
-* **Target Frequency:** [Insert Center Frequency]
+## Design Specificatio
 * **Substrate Material:** [Insert Material]
 * **Dielectric Constant (ε_r):** [Insert Value]
 * **Substrate Thickness:** [Insert Thickness]
