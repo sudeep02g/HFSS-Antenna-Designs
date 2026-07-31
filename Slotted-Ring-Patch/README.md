@@ -11,10 +11,16 @@ This directory contains the Ansys HFSS design files for a Slotted Ring (Circular
 * **Feed Type:** Microstrip line feed
 
 ## Key Results
-*(Include screenshots of your HFSS plots below)*
-* **S-Parameter (S11):** [Insert dB values for each band]
-* **VSWR:** [Insert VSWR value]
-* **Peak Gain:** [Insert Gain in dBi]
+Below are the simulation plots for this design:
+
+S-Parameter (S11) Plot:
+![S11 Plot](S11_2.png)
+
+VSWR Plot:
+![VSWR Plot](VSWR_2.png)
+
+Gain Plot:
+![Gain Plot](Gain_2.png)
 
 ## How to Use
 Open the `.aedt` file in Ansys Electronics Desktop (HFSS) to explore the geometry, mesh settings, and parameter sweeps.
